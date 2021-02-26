@@ -1,0 +1,12 @@
+{
+    "token": "NzI2OTI3MjM3MTcyOTUzMTI4.XvkaDg.P7xMwt5yKXgUjIOmclUJfd3Xow4",
+    "prefix": "!",
+    "host": "localhost",
+    "user": "root",
+    "password": "",
+    "database": "dbcfs",
+    "red": "#b70000",
+    "orange": "#ff6a00",
+    "green": "#00ff26",
+    "purple": "#d604cf"
+}
